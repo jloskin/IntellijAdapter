@@ -1,0 +1,3 @@
+rootProject.name = "IntellijAdapter"
+include ':app'
+include ':adapter'
